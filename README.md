@@ -1,7 +1,4 @@
----
-cover: .gitbook/assets/111_4x.jpg
-coverY: -525
----
+
 
 # ⭐ Introduction
 
