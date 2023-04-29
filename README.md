@@ -6,6 +6,3 @@
 
 ##
 
-##
-
-## With the HiveMind in place, players will have the ability to perform transactions and interact with the blockchain directly from within the game, opening up a world of possibilities for creative projects and collaborations.
